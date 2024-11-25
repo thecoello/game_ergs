@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import imageBg from '../public/images/bg_forms.png'
+import imageBg from '/images/bg_forms.png'
 import ButtonStart from './components/ButtonStart'
 import Navigation from './components/Navigation'
 import Options from './components/Options'

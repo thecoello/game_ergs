@@ -2,54 +2,54 @@
     {
       "category":{
         "title": "Conexus",
-        "icon": "../public/images/icons/Conexus.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Conexus.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué es Conexus?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Conexus es el Grupo de Recursos para Empleados (ERG) de Dell que promueve formas innovadoras de pensar y hacer a través de nuevas tecnologías y prácticas, y conecta a las personas sin importar dónde, cuándo y cómo trabajen",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Conexus es el Grupo de Recursos para Empleados (ERG) de Dell que promueve los grupos de debate de tecnologías",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Conexus es el Grupo de Recursos para Empleados (ERG) de Dell que promueve los grupos de deporte e inversiones",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es el principal evento anual global de Conexus?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "El principal evento anual a nivel global de Conexus es el Future of Work",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "El principal evento anual a nivel global de Conexus es el Future of Football",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "El principal evento anual a nivel global de Conexus es el “Present of Society",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuáles han sido las dos temáticas principales locales de Conexus en 2024 que han contado con gran aceptación?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Las dos temáticas principales tratadas por Conexus en 2024 han sido de AI GenAI Copilot y de Speed Networking",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "La temática principal tratada por Conexus en 2024 ha sido de Máquinas Virtuales",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Las dos temáticas principales tratadas por Conexus en 2024 han sido de Máquinas Virtuales y de Cocina",
+                    "correct": false
                   }
                 ]    
             }
@@ -60,54 +60,54 @@
     {
       "category":{
         "title": "GenNExt",
-        "icon": "../public/images/icons/GenNExt.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/GenNExt.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es principal proposito de Planet?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Promover la conciencia de nuestras acciones y el impacto que tiene en el medio que nos rodea.",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Promover partidas de Padel.",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Organizar eventos nocturnos.",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué actividad anual promueve Planet para mejorar entornos naturales?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Jornada de concienciación y recogida de residuos en la naturaleza.",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Concurso de comida internacional. ",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Charla de desarrollos en opensource y kubernetes",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cómo se alinea la ERG Planet con los objetivos sostenibles de Dell Technologies?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Promoviendo iniciativas de reciclaje y economía circular",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Fomentando únicamente la reducción de costos operativos mediante prácticas internas.",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Apoyando actividades internas que promuevan el trabajo en equipo. ",
+                    "correct": false
                   }
                 ]    
             }
@@ -118,7 +118,7 @@
     {
       "category":{
         "title": "Mosaic",
-        "icon": "../public/images/icons/Mosaic.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Mosaic.png",
         "questions": [
           {
             "question_1":{            
@@ -176,54 +176,54 @@
     {
       "category":{
         "title": "Planet",
-        "icon": "../public/images/icons/Planet.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Planet.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es principal proposito de Planet?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Promover la conciencia de nuestras acciones y el impacto que tiene en el medio que nos rodea.",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Promover partidas de Padel.",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Organizar eventos nocturnos. ",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué actividad anual promueve Planet para mejorar entornos naturales?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Jornada de concienciación y recogida de residuos en la naturaleza.",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Concurso de comida internacional. ",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Charla de desarrollos en opensource y kubernetes. ",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cómo se alinea la ERG Planet con los objetivos sostenibles de Dell Technologies?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Promoviendo iniciativas de reciclaje y economía circular",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Fomentando únicamente la reducción de costos operativos mediante prácticas internas.",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Apoyando actividades internas que promuevan el trabajo en equipo. ",
+                    "correct": false
                   }
                 ]    
             }
@@ -234,54 +234,54 @@
     {
       "category":{
         "title": "Pride",
-        "icon": "../public/images/icons/Pride.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Pride.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué significan las siglas LGTBIQ+?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Colectivo compuesto por lesbianas, gays, transgéneros, transexuales, bisexuales, intersexuales, queer y el resto de las identidades y orientaciones incluidas en el +",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Colectivo compuesto por Lesbianas, gays, travestis, bisexuales, intrasexuales, queens y el resto de identidades y orientaciones incluidas en el +",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "No tienen ningún significado concreto, se refiere a todas las personas del ámbito homosexual",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué se celebra a nivel mundial el día 28 de Junio?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "El Día Internacional del Orgullo LGBT",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "La fecha de nacimiento de la primera Drag Española",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "El día en el que dan las vacaciones escolares de verano",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué serie de TV ha sido reconocida por contar con profesionales trans tanto en el reparto como en el equipo técnico?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Veneno",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Transparent",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "La casa de Papel",
+                    "correct": false
                   }
                 ]    
             }
@@ -292,54 +292,54 @@
     {
       "category":{
         "title": "True Ability",
-        "icon": "../public/images/icons/True_ability.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/True_ability.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuales son las siglas con la que se denomina el espectro autista?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "TEA",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "TDAH",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "DTA",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Como se llama la afección en la que una persona tiene un cromosoma adicional o una parte adicional de un cromosoma?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Sindrome de  Down",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Aspegen",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Autismo",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es el porcentaje de minusvalía más bajo por el que ya se conceden beneficios a quien lo padece?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "33",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "25",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "50",
+                    "correct": false
                   }
                 ]    
             }
@@ -350,53 +350,53 @@
     {
       "category":{
         "title": null,
-        "icon": "../public/images/icons/Well_at_dell.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Well_at_dell.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es la misión de Wellness?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Hacer un tour nacional por spas",
+                    "correct": false
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Cuidar la salud del empleado de forma holística",
+                    "correct": true
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Repartir goodies sobre salud",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué guía tiene para cumplir su misión?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Guía Michelín",
                     "correct": false
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
-                  },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Organizar muchas cosas",
                     "correct": false
+                  },{
+                    "titleAnswers": "Considerar la diversidad e innovación",
+                    "correct": true
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Y cuáles son sus objetivos?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Consolidar a Dell en España como una empresa que cuida en profundidad a su fuerza activa, ejerciendo una responsabilidad social en la medida de su alcance",
                     "correct": false
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Ofrecer a los empleados un programa de bienestar sólido, en el que puedan ser participantes activos y comunicarnos sus propias necesidades",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Las dos respuestas anteriores son correctas",
                     "correct": true
                   }
                 ]    
@@ -408,54 +408,54 @@
     {
       "category":{
         "title": "Women in Action",
-        "icon": "../public/images/icons/Women_in_action.png",
+        "icon": "https://tasman.site/clientes/kor/dell/2024/dell-technologies-forum/game/images/icons/Women_in_action.png",
         "questions": [
           {
             "question_1":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué significan las letras de WIA?",
                 "answers": [
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Women in Action",
                     "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "Workers in Action",
                     "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Wonder Inteligencia Artificial",
                     "correct": false
                   }
                 ]    
             },
             "question_2":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Cuál es la misión de WIA? ",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "Crear una comunidad inclusiva que brinde las oportunidades de desarrollo, liderazgo y networking diseñadas para empoderar, retener y atraer a las mujeres",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "Crear un grupo de empleados exclusivo interesado en Open Source y desarrollos en K8s",
+                    "correct": false
                   },{
-                    "titleAnswers": "",
+                    "titleAnswers": "Crear una comunidad de empleados que se comunique con otras empresas para la organización de eventos. ",
                     "correct": false
                   }
                 ]    
             },
             "question_3":{            
-                "titleQuestion": "",
+                "titleQuestion": "¿Qué día es el día internacional de la Mujer?",
                 "answers": [
                   {
-                    "titleAnswers": "",
-                    "correct": false
+                    "titleAnswers": "8 de marzo",
+                    "correct": true
                   },
                   {
-                    "titleAnswers": "",
+                    "titleAnswers": "5 abril",
                     "correct": false
                   },{
-                    "titleAnswers": "",
-                    "correct": true
+                    "titleAnswers": "11 de septiembre.",
+                    "correct": false
                   }
                 ]    
             }
