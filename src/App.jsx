@@ -26,7 +26,7 @@ function App() {
       </div>
 
       <div className='absolute top-0 left-0 object-fill w-full h-full'>
-        <img className="w-auto h-auto opacity-55" src={imageBg} alt="Background Image" />
+        <img className="w-full h-full opacity-100" src={imageBg} alt="Background Image" />
       </div>
 
     </div>

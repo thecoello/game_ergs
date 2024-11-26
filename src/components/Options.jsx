@@ -102,7 +102,7 @@ function Options() {
       }
 
 
-      <div className="flex w-full h-full justify-center items-center pt-14">
+      <div className="flex w-full h-full justify-center items-start pt-[10%]">
 
         <div className="flex gap-5 flex-wrap justify-center">
           {!anwering ?
@@ -110,12 +110,18 @@ function Options() {
             :
             <div className="flex flex-col items-center justify-center gap-4">
 
-              <p className="text-[2rem] ">Categoría: {question.category.title}</p>
+              <div className="w-[13%] text-[2rem] flex gap-5  items-center justify-center bg-white rounded-xl -mt-10">
 
-              <div className="flex gap-4">
+                <img className="w-[40%]" src={question.category.icon} alt="" />
+                
+                {question.category.title}
+                
+                </div>
+
+              <div className="flex gap-4 pl-4 pr-4">
 
 
-                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center">
+                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center rounded-xl">
                   <p className="text-[1.5rem]"><b>{question.category.questions[0].question_1.titleQuestion}</b></p>
 
                   {question.category.questions[0].question_1.answers.map((answer, i) => {
@@ -125,7 +131,7 @@ function Options() {
                   })}
                 </div>
 
-                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center">
+                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center rounded-xl">
                   <p className="text-[1.5rem]"><b>{question.category.questions[0].question_2.titleQuestion}</b></p>
 
                   {question.category.questions[0].question_1.answers.map((answer, i) => {
@@ -135,7 +141,7 @@ function Options() {
                   })}
                 </div>
 
-                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center">
+                <div className="bg-white p-8 w-1/3 flex flex-col gap-4 justify-center items-center text-center rounded-xl">
                   <p className="text-[1.5rem]"><b>{question.category.questions[0].question_3.titleQuestion}</b></p>
 
                   {question.category.questions[0].question_1.answers.map((answer, i) => {
